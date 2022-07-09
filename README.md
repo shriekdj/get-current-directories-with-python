@@ -1,4 +1,4 @@
-# get_current_directories with python
+# get current directory with python
 
 This Python Program That Gets list of all the files in current directory and gives its list of filenames in csv with using python
 
